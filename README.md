@@ -3,9 +3,9 @@
 Chuyển đổi từ số thành chữ, và phát âm.
 
 ## Thành viên và Vai trò
-Lê Minh Đức: Trưởng nhóm, code phần chuyển đổi từ số thành chữ 
+Lê Minh Đức: Trưởng nhóm, code phần chuyển đổi từ số thành chữ.
 Hoàng Nghĩa Huy (https://github.com/alteracctive): Code phần phát âm.
-Nguyễn Công Phú: Sửa bug
+Nguyễn Công Phú: Sửa bug.
 
 ## Tổng quan dự án
 - **Kiểu:** Windows Forms App (.NET Framework)
